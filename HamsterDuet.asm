@@ -304,6 +304,28 @@ AtualizaHit:
 	loadn r1, #39
 	call imprimeNum
 	
+	;breakp
+	;instantes antes da colisão com a primeira orelhinha do jogador um (com problemas)
+	;r0 = 00000
+	;r1 = 00002
+	;r2 = 00144
+	;r3 = 00255
+	;r4 = 00255
+	;r5 = 00000
+	;r6 = 00000
+	;r7 = 00000
+	
+	;imediatamente após a colisão com a primeira orelhinha:
+	;r0 = 00000
+	;r1 = 00065
+	;r2 = 02126
+	;r3 = 00255
+	;r4 = 00255
+	;r5 = 00000
+	;r6 = 00000
+	;r7 = 00000
+	
+	
 	rts
 
 AtualizaMiss:
