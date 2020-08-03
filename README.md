@@ -8,7 +8,7 @@ Projeto final para a disciplina de Prática em Organização de Computadores (SS
 O jogo foi feito para ser jogado em dois jogadores. Para controlar o movimento dos personagens, um dos jogadores usa as teclas A e D e o outro, as teclas J e L. Ao longo do jogo, você precisa alimentar os hamsters com as comidas que caem. Perde quem deixar uma comida cair no chão primeiro.
 
 ## Video
-TODO
+https://youtu.be/G0g5oMZsruA
 
 ## Desenvolvedores
 Diany Pressato
